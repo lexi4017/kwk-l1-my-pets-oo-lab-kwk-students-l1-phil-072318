@@ -20,3 +20,4 @@ end
 vinny = Cat.new("Vinny", "Mad")
 
 puts vinny.return_name
+puts vinny.return_mood
