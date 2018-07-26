@@ -21,3 +21,4 @@ vinny = Cat.new("Vinny","Mad")
 
 puts vinny.return_name
 puts vinny.return_mood
+puts "Congrats! you walked your dog! he is "
