@@ -1,7 +1,7 @@
 class Cat
  def initialize(name,mood)
    @name = name
-   @mood = name
+   @mood = mood
  end
  
   def return_name
