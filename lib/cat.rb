@@ -17,7 +17,7 @@ class Cat
   
 end
 
-vinny = Cat.new("Vinny", "Mad")
+vinny = Cat.new("Vinny","Mad")
 
 puts vinny.return_name
 puts vinny.return_mood
